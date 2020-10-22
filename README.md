@@ -1,6 +1,8 @@
 # EuclidAlgorithm
 Euclid's Algorithm in java. Outputs table format.
 
+Created to solve discrete mathematics Euclid Algorithm problems. Uses the input function format GCD(a, b)
+
 Useful for large numbers and fast automated calculation.
 
 ## How to use
